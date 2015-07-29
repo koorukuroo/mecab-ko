@@ -6,6 +6,7 @@
 - https://bitbucket.org/eunjeon/mecab-ko-dic
 
 # Usage
+```
 $ sudo docker pull koorukuroo/mecab-ko
 $ sudo docker run -i -t koorukuroo/mecab-ko:0.1
 안녕하세요
@@ -13,3 +14,4 @@ $ sudo docker run -i -t koorukuroo/mecab-ko:0.1
 하	XSV,*,F,하,*,*,*,*
 세요	EP+EF,*,F,세요,Inflect,EP,EF,시/EP/*+어요/EF/*
 EOS
+```
